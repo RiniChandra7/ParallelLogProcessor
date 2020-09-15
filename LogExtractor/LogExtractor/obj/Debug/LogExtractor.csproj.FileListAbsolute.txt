@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\obj\Debug\LogExtractor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\bin\Debug\LogExtractor.exe.config
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\bin\Debug\LogExtractor.exe
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\bin\Debug\LogExtractor.pdb
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\obj\Debug\LogExtractor.exe
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\obj\Debug\LogExtractor.pdb
+C:\Users\HP\source\repos\LogExtractor\LogExtractor\obj\Debug\LogExtractor.csprojAssemblyReference.cache

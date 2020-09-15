@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\LogCreator\LogCreator\bin\Debug\LogCreator.exe.config
+C:\Users\HP\source\repos\LogCreator\LogCreator\bin\Debug\LogCreator.exe
+C:\Users\HP\source\repos\LogCreator\LogCreator\bin\Debug\LogCreator.pdb
+C:\Users\HP\source\repos\LogCreator\LogCreator\obj\Debug\LogCreator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LogCreator\LogCreator\obj\Debug\LogCreator.exe
+C:\Users\HP\source\repos\LogCreator\LogCreator\obj\Debug\LogCreator.pdb

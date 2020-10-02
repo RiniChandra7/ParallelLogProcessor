@@ -1,4 +1,12 @@
 # ParallelLogProcessor
+This application aims to extract log entries within a particular time range, supplied by the user in the format shown. The output is a folder containing all the required log entries, while the input is given in the format shown in the screenshot, with the path being that of the full archive. All time formats are in ISO 8601 format. The aim was to minimize the waiting time of the user considering the the total log size is in the order of TBs (Test data of that size was unavailable, but testing was done for upto a thousand log files with a thousand log entries each). This approach use parallel programming in C#, and successfully minimized the total execution time to half, as observed in the testing done so far.
+
+## How to use-
+The input format needs to be as shown below. Most invalid input conditions have been handled in the code to avoid wasting execution time.
+![Input format](https://github.com/RiniChandra7/ParallelLogProcessor/blob/master/log.jpg?raw=true)
+In the above case, the first output log file containing 1000 lines was ready in the time shown above, which means this implementation has so far been able to start generating input within 1-2 seconds.
+The command is supposed to be executed in the same format as shown above.
+The executable file LogExtractor.exe can be found inside the project folder at LogExtractor\LogExtractor\bin\Debug\LogExtractor.exe.
 
 ## Assumptions-
 1. It has been mentioned in the problem statement that lines are written sequentially into a file and soon as it reaches a
